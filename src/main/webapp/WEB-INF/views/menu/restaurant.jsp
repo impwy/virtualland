@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>레스토랑</title>
 <link rel="stylesheet" href="resources/css/restaurant.css" />
 </head>
 <div class="restaurant-form">

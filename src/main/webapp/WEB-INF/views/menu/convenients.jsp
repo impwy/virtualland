@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>편의시설</title>
 <link rel="stylesheet" href="resources/css/convenients.css" />
 </head>
 <div class="convenients-form">

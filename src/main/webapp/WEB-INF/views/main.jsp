@@ -13,7 +13,7 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script src="https://kit.fontawesome.com/f84cdf215e.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="resources/css/main.css"/>
-    <title>Document</title>
+    <title>virtualland</title>
 </head>
 <style>
 .pageNavi{
